@@ -1,4 +1,4 @@
-# Binary Classification (Blak vs Hog) Using CNN
+# Binary Classification (Blank vs Hog) Using CNN
 
 This project demonstrates a binary classification task using Convolutional Neural Networks (CNNs). CNNs are widely used in machine learning for image recognition and classification tasks. This repository provides a practical example of how to implement and train a CNN for binary classification(blank vs hog).
 
